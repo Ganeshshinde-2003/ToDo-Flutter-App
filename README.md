@@ -11,8 +11,11 @@ A simple ToDo list app built with Flutter and integrated with a RESTful API for 
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/115361691/236767768-80aefe0b-58bf-4936-b550-f848899ce5bd.png)
+
+![Screenshot (10)](https://user-images.githubusercontent.com/115361691/236767773-0e1434b1-7a6f-4934-bb02-a1bdde0d3cd4.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/115361691/236767778-09dfda1a-6be4-49b8-a6e9-d56afa15e36d.png)
 
 ## ⚙️ Dependencies
 
