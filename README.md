@@ -22,7 +22,7 @@ A simple ToDo list app built with Flutter and integrated with a RESTful API for 
 ## 🚀 Getting Started
 
 1. Install Flutter
-2. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
+2. Clone this repository: `https://github.com/Ganeshshinde-2003/ToDo-Flutter-App.git`
 3. Navigate to the project directory: `cd your-repository`
 4. Install dependencies: `flutter pub get`
 5. Run the app: `flutter run`
